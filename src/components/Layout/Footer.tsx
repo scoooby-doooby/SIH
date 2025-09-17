@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
                   alt="" 
                   className="h-10 w-auto"
                 />
-                <span className="text-2xl font-bold text-white">TamilTours</span>
+                <span className="text-2xl font-bold text-white">TN Explorer</span>
               </div>
 
               <p className="text-white/80 mb-6 max-w-md">
