@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
     alt="TamilToursLogo" 
     className="h-10 w-auto"
   />
-  <span className="text-xl font-bold text-white">TamilTours</span>
+  <span className="text-xl font-bold text-white">TN Explorer</span>
 </Link>
 
         
