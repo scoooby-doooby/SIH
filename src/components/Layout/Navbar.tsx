@@ -29,8 +29,8 @@ const Navbar: React.FC = () => {
       <div className="flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
   <img 
-    src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
-    alt="TamilTours Logo" 
+    src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-16x16.png" 
+    alt="TamilToursLogo" 
     className="h-10 w-auto"
   />
   <span className="text-xl font-bold text-white">TamilTours</span>
