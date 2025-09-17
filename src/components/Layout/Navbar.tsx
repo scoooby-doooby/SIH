@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
       <div className="flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
   <img 
-    src="src/components/Layout/favicon-32x32.png" 
+    src="src/components/Layout/android-chrome-512x512.png" 
     alt="TamilToursLogo" 
     className="h-10 w-auto"
   />
