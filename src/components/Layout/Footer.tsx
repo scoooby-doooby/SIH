@@ -51,13 +51,13 @@ const Footer: React.FC = () => {
             {/* Brand Section */}
             <div className="lg:col-span-2">
               <div className="flex items-center space-x-2 mb-4">
-  <img 
-    src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
-    alt="" 
-    className="h-10 w-auto"
-  />
-  <span className="text-2xl font-bold text-white">TamilTours</span>
-</div>
+                <img 
+                  src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
+                  alt="" 
+                  className="h-10 w-auto"
+                />
+                <span className="text-2xl font-bold text-white">TamilTours</span>
+              </div>
 
               <p className="text-white/80 mb-6 max-w-md">
                 Your intelligent travel companion for exploring Tamil Nadu. Experience rich heritage, 
