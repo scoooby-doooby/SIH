@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
             <div className="lg:col-span-2">
               <div className="flex items-center space-x-2 mb-4">
                 <img 
-                  src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
+                  src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon.png" 
                   alt="" 
                   className="h-10 w-auto"
                 />
