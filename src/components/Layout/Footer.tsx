@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
               <div className="flex items-center space-x-2 mb-4">
   <img 
     src="https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
-    alt="TamilTours Logo" 
+    alt="" 
     className="h-10 w-auto"
   />
   <span className="text-2xl font-bold text-white">TamilTours</span>
