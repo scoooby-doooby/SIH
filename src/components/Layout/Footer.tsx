@@ -51,10 +51,14 @@ const Footer: React.FC = () => {
             {/* Brand Section */}
             <div className="lg:col-span-2">
               <div className="flex items-center space-x-2 mb-4">
-                <MapPin className="w-8 h-8 text-cyan-400" />
-                <img src="https://your-bolt-site.bolt.site/files/favicon.png" alt="TamilTours Logo" style="height:28px; width:auto;">
-                <span className="text-2xl font-bold text-white">TamilTours</span>
-              </div>
+  <img 
+    src="https://https://bolt.new/~/sb1-xdx4k3bu/files/favicon-32x32.png" 
+    alt="TamilTours Logo" 
+    className="h-10 w-auto"
+  />
+  <span className="text-2xl font-bold text-white">TamilTours</span>
+</div>
+
               <p className="text-white/80 mb-6 max-w-md">
                 Your intelligent travel companion for exploring Tamil Nadu. Experience rich heritage, 
                 stunning landscapes, and vibrant culture with our offline-capable platform.
