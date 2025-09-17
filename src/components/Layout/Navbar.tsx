@@ -28,9 +28,14 @@ const Navbar: React.FC = () => {
     <nav className="backdrop-blur-lg bg-white/10 border border-white/20 rounded-3xl mx-4 md:mx-8 mt-6 px-6 py-4 relative z-50">
       <div className="flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
-          <MapPin className="w-8 h-8 text-cyan-400" />
-          <span className="text-xl font-bold text-white">TamilTours</span>
-        </Link>
+  <img 
+    src="https://your-bolt-site.bolt.site/files/logo.png" 
+    alt="TamilTours Logo" 
+    className="h-10 w-auto"
+  />
+  <span className="text-xl font-bold text-white">TamilTours</span>
+</Link>
+
         
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-8">
